@@ -33,3 +33,6 @@ To run the model:
 Ensure all dependencies are installed (e.g., scikit-learn, pandas, numpy, matplotlib, seaborn).
 Load the dataset and preprocess it as described.
 Train the logistic regression model and evaluate its performance on the test set.
+
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
